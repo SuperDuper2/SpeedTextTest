@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.AssemblyInfo.cs
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpeedTextTest\bin\Debug\net6.0\SpeedTextTest.exe
+C:\Users\User\source\repos\SpeedTextTest\bin\Debug\net6.0\SpeedTextTest.deps.json
+C:\Users\User\source\repos\SpeedTextTest\bin\Debug\net6.0\SpeedTextTest.runtimeconfig.json
+C:\Users\User\source\repos\SpeedTextTest\bin\Debug\net6.0\SpeedTextTest.dll
+C:\Users\User\source\repos\SpeedTextTest\bin\Debug\net6.0\SpeedTextTest.pdb
+C:\Users\User\source\repos\SpeedTextTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.csproj.CopyComplete
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.dll
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\refint\SpeedTextTest.dll
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.pdb
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\SpeedTextTest.genruntimeconfig.cache
+C:\Users\User\source\repos\SpeedTextTest\obj\Debug\net6.0\ref\SpeedTextTest.dll
